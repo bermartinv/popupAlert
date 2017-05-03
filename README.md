@@ -1,9 +1,9 @@
 # popupAlert
 ### Mostrar una ventana de alerta con el texto que queramos
 
-![nombre de la imagen][img1]
+![Muestra de lo que hace][img1]
 
-[img1]: popupAlert.png "Así funciona"
+[img1]: popupAlert.PNG "Así funciona"
 
 Este el texto que tenemos que tener en nuestro código
 
