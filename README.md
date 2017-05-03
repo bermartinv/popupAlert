@@ -1,6 +1,10 @@
 # popupAlert
 ### Mostrar una ventana de alerta con el texto que queramos
 
+![nombre de la imagen][img1]
+
+[img1]: popupAlert.png "Así funciona"
+
 Este el texto que tenemos que tener en nuestro código
 
     '<div id="myModal" class="modal">
